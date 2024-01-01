@@ -10,8 +10,10 @@ Project Goals:
 -	
 Data Analysis Summary:
 Here are the dashboards that I created. For moving out around and deeper insights in this dashboard, please follow link to GitHub Repository of the project here
- 
- 
+ ![1](https://github.com/SashaNTC/EuropeanSmokingTrends/assets/68121233/8f0ebcb6-6fc3-47d5-a8f0-2c42985a1d8d)
+
+ ![2](https://github.com/SashaNTC/EuropeanSmokingTrends/assets/68121233/2a2efaf4-68db-4c72-b80d-6b2b7baf6556)
+
 Short brief of the finding:
 -	In Europe about one-third - 32% of people are daily smokers. 
 -	No change significant share rate decreases in total, from 2014 to 2019.
