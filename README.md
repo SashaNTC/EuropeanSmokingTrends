@@ -19,7 +19,6 @@ Short brief of the finding:
 -	Female share rate is higher in younger population, males in older population in gender distribution. 
 Anyone can continue the story. 
 Data Source and Software used:
-Dataset has been taken from Eurostat (Tobacco consumption statistics). All data are stored in TSV file (Tab separated file). Additional files are created from commonly known data. 
-Data are cleaned and transformed using Excel VBA and Power Query. Final visualization has been done in Power BI. 
-
-https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tobacco_consumption_statistics
+Dataset has been taken from Eurostat (Tobacco consumption statistics https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tobacco_consumption_statistics
+). All data are stored in TSV file (Tab separated file). Additional files are created from commonly known data. 
+Data are cleaned and transformed using Excel VBA and Power Query. Final visualization has been done in Power BI.
